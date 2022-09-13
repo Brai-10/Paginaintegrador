@@ -374,3 +374,7 @@ color: var(--grey);
     width: auto;
     justify-content: space-between;
 }
+.img-hero img{
+    width: auto;
+    height: 270px;
+}
